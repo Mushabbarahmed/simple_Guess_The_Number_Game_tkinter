@@ -3,7 +3,7 @@ A simple "Guess The Number" game built with Python and Tkinter for beginners to 
 
 ## Requirements
 
-To run this project, you'll need the following Python packages:
+To run this project, you'll need the following Python packages/:
 - `tkinter`
   
 - `Pillow`
